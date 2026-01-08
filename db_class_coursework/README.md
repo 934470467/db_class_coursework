@@ -1,4 +1,4 @@
-# 数据库课程作业项目 (DB Class Coursework)
+# 数据库课程大作业项目 (DB Class Coursework)
 
 这是一个包含前端 (React + Vite) 和后端 (FastAPI) 的全栈项目，集成了 Firebase Firestore 和 Google Analytics。
 
