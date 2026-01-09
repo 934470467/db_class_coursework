@@ -11,9 +11,9 @@
 
 ## 仓库结构 (Repository Structure)
 
-* **Project_Report/**: 存放项目的技术设计报告。包含基于 **LaTeX (XeLaTeX)** 编写的源码及最终生成的 PDF 文档。报告采用了现代化的 **PingFang SC (苹方黑体)** 进行排版，优化了技术名词的显示效果。
+* **Project_Report/**: 存放项目的技术设计报告。包含基于 **LaTeX (XeLaTeX)** 编写的源码及最终生成的 PDF 文档。
 * **db_class_coursework/**: 存放系统的核心源代码。包含基于 **FastAPI** 的后端服务、**Swift (iOS)** 前端应用以及相关数据库安全规则配置文件。
-
+* **分布式数据库开发答辩情况记录表.pdf/docx**: 此课程打败你的记录表
 ## 技术栈 (Technical Stack)
 
 * **后端 (Backend)**: Python / FastAPI
